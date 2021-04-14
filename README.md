@@ -32,7 +32,7 @@
 
 - 👯 I’m looking to collaborate on  
 
-- 💬 Contact me:
+- 💬 Contact me:<br>
     • Discord: Notrya#7885 
 
 
