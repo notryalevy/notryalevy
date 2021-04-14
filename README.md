@@ -38,7 +38,7 @@
 
 
 
-<h2 style="text-align: center"> My GitHub Stats
+<h2 style="text-align: center"> My GitHub Stats<br><br>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=SizickOfficial&count_private=true&show_icons=true&theme=default" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SizickOfficial&theme=default" />
 
