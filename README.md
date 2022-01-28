@@ -34,22 +34,14 @@
 - 💬 Contact me:<br>
     • Discord: Notrya#7885 
 
-
-
-
-<h2 style="text-align: center"> My GitHub Stats</h2><br><br>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=notryalevy&count_private=true&show_icons=true&theme=default" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notryalevy&theme=default" />
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-
-<h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '75px'></h2>
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=onedark)
 </div>
-
+#### Contact Me!
+<a href="https://discord.com/users/282676542017110026" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="discord"> 
+</a>
+<a href="mailto:contact@notrya.fr" target="_blank">
+    <img src="https://img.shields.io/badge/Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="mail"> 
+</a>
 <details>
     <summaryMy Metrics</summary>
     <br>
