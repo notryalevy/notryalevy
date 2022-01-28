@@ -53,5 +53,5 @@
 <details>
     <summaryMy Metrics</summary>
     <br>
-    ![Metrics](https://metrics.lecoq.io/notryalevy?template=terminal&config.timezone=Europe%2FParis)
+    <img src="https://metrics.lecoq.io/notryalevy?template=terminal&config.timezone=Europe%2FParis">
 </details
