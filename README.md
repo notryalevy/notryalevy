@@ -49,3 +49,9 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=onedark)
 </div>
+
+<details>
+    <summaryMy Metrics</summary>
+    <br>
+    ![Metrics](https://metrics.lecoq.io/notryalevy?template=terminal&config.timezone=Europe%2FParis)
+</details
