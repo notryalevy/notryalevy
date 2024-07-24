@@ -1,6 +1,5 @@
 <h1 align='center'> Hello World <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
-<div align='center'><img src="https://visitor-badge.glitch.me/badge?page_id=notryalevy.notryalevy" alt="visitorCount"></div>
-<div size='20px' align='center'> Hi! My name is Notrya. Thank You for taking the time to view my GitHub Profile :smile: </div>
+<div size='20px' align='center'> Hi! My name is Ayrton Levy (notryalevy). Thank You for taking the time to view my GitHub Profile :smile: </div>
 
 <div align="center">
     <h2>Contact Me!</h2><br>
