@@ -3,7 +3,7 @@
 
 <div align="center">
     <h2>Contact Me!</h2><br>
-    <a href="https://discord.com/users/282676542017110026" target="_blank">
+    <a href="https://discord.com/users/143414251820810240" target="_blank">
         <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="discord"> 
     </a>
     <a href="mailto:contact@notrya.fr" target="_blank">
